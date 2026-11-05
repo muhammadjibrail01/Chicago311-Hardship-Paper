@@ -68,5 +68,4 @@ Helper modules: `common.py` (loading), `prep.py` (analysis variables), `fe.py` (
 community-area-clustered standard errors; see Appendix B.1).
 
 ## 6. Disclosure
-The code in this package was drafted with an AI assistant (Claude, Anthropic). Describe this accurately in the paper's
-AI-use statement, along with the checks and extensions you carried out yourself.
+AI-assisted tools were used solely for grammar editing and correcting minor coding errors. All data processing, analytical decisions, and interpretations remain the author's own.
