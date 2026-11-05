@@ -1,0 +1,13 @@
+pandas==2.3.3
+numpy==2.4.4
+scipy==1.17.1
+pyarrow==25.0.1
+statsmodels==0.15.0
+geopandas==1.1.4
+shapely==2.1.2
+libpysal==4.15.0
+esda==2.10.0
+spreg==1.9.1
+matplotlib==3.10.8
+pillow==12.1.1
+openpyxl==3.1.5
